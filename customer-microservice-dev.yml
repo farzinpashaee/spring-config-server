@@ -1,5 +1,0 @@
-server:
-  port: 66666
-spring:
-  security:
-    enabled: false
